@@ -4,7 +4,6 @@ The Inventory Management System is designed to streamline inventory processes fo
 - Full source code
 - Database design
 - UI designs and screenshots
-- Testing documentation
 - Final Year Project report
 
 ## Author
